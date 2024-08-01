@@ -78,13 +78,13 @@ header {
 .box1 h1 {
   width: 400px;
   text-align: center;
-  margin-left: 500px;
+  margin-left: 0px;
 }
 
 .box1 p {
     text-align: center;
     width: 400px;
-    margin-left: 500px;
+    margin-left:0px;
     padding: 20px;
 }
 
