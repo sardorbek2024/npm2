@@ -1,0 +1,187 @@
+.navbar{
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+    
+
+}
+
+.navbar a{
+   display: flex;
+   text-decoration: none;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar a:hover{
+    transition: 0.5s;
+    color: thistle;
+}
+
+.topnavbar .box{
+    display: flex;
+    margin: 20px;
+}
+
+.topnavbar .box img{
+    margin-right: 10px;
+}
+
+.topnavbar .info{
+    display: flex;
+    align-items: center;
+}
+
+.topnavbar input{
+    width: 1000px;
+    height: 50px;
+}
+
+.topnavbar .box a{
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+   width: 90px;
+   display: flex;
+   align-items: center;
+   padding-left: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.topnavbar .box1 a{
+    border: 1px solid rgb(145, 138, 138);
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+  
+
+}
+
+
+header {
+    background-image: url(./red-glow-gfx-background-download-in-high-resolution-11696236606cuzctcycox.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 60px;
+    color: aliceblue;
+    margin-bottom: 50px;
+}
+
+.box1 h2 {
+    width: 400px;
+    text-align: center;
+    margin-left: 500px;
+    font-size: 50px;
+    font-family:monospace;
+}
+.box1 h1 {
+  width: 400px;
+  text-align: center;
+  margin-left: 500px;
+}
+
+.box1 p {
+    text-align: center;
+    width: 400px;
+    margin-left: 500px;
+    padding: 20px;
+}
+
+.box2 .box3 {
+    background-color: chartreuse;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 30px;
+    font-weight: 600;
+    margin-right: 30px;
+
+}
+
+.box2 .box4 {
+    background-color: brown;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 30px;
+    border: 1px solid wheat;
+    font-weight: 600;
+
+}
+.info{
+    text-align: center;
+}
+.info h2{
+    width: 600px;
+    margin-left: 545px;
+    font-size: 50px;
+}
+.info p{
+    width: 600px;
+    margin-left: 545px;
+    font-size: 25px;
+}
+
+
+.box1 h2 {
+    font-size: 50px;
+}
+
+.box1 h1 {
+    font-size: 40px;
+}
+
+.box1 p {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.box2 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.box2 .box3, .box2 .box4 {
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 30px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.box2 .box3 {
+    background-color: chartreuse;
+    color: black;
+}
+
+.box2 .box4 {
+    background-color: brown;
+    color: aliceblue;
+    border: 1px solid wheat;
+}
+
+.info {
+    text-align: center;
+}
+
+.info h2, .info p {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.info h2 {
+    font-size: 50px;
+}
+
+.info p {
+    font-size: 25px;
+}
+
+
+.info5 {
+    padding: 100px;
+    display: flex;
+    justify-content: space-around;
+}
